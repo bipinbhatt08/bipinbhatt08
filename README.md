@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to my GitHub profile! 👋
+
+Feel free to explore my projects and repositories.
+
+## About Me
+
+- 👋 Hi, I’m @BipinBhatt
+- 🌱 I'm currently learning and growing in the field of Web Development.
+- 🎓 Pursuing my Bachelor's degree from Far Western Uni.
+  
+## Connect with Me
+
+Let's connect and collaborate! You can find me on:
+
+- [LinkedIn]((https://www.linkedin.com/in/bipin-bhatt-a6a11b233/))
+- Email: [Your Email](mailto:bipinbhatt280@gmail.com)
+
+## GitHub Stats
+
+![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipinbhatt08&show_icons=true&hide=prs&theme=radical)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinbatt08&layout=compact&theme=radical)](https://github.com/bipinbhatt08)
+
