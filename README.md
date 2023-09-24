@@ -1,4 +1,3 @@
-<div align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=bipinbhatt08&color=brightgreen)
 
 ### Hi there! 👋
@@ -51,6 +50,6 @@ Email: [bipinbhatt280@gmail.com](mailto:bipinbhatt280@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinbhatt08&layout=compact&theme=radical)](https://github.com/bipinbhatt08)
 
-Feel free to reach out and explore my projects! 🚀
 
-</div>
+
+Feel free to reach out and explore my projects! 🚀
