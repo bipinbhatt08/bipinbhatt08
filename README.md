@@ -40,7 +40,8 @@ Feel free to explore my projects and repositories.
 Let's connect and collaborate! You can find me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bipin-bhatt-a6a11b233/)
-Email: [bipinbhatt280@gmail.com](mailto:bipinbhatt280@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bipinbhatt280@gmail.com)
 
 ## GitHub Stats 📊
 
