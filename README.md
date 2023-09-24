@@ -22,15 +22,9 @@ Feel free to explore my projects and repositories.
 ## About Me
 
 - 👋 Hi, I’m @BipinBhatt
-- 🌱 I'm currently learning and growing in the field of Web Development (MERN stack).
-- 🎓 Pursuing my Bachelor's degree(BSc CSIT) from Far Western Uni.
-  
-## Connect with Me
+- 🌱 I'm currently learning MERN stack.
+- 🎓 Pursuing my Bachelor's degree(BSc.CSIT) from Far-Western Uni.
 
-Let's connect and collaborate! You can find me on:
-
-- LinkedIn: [https://www.linkedin.com/in/bipin-bhatt-a6a11b233/](https://www.linkedin.com/in/bipin-bhatt-a6a11b233/)
-- Email: [bipinbhatt280@gmail.com](mailto:bipinbhatt280@gmail.com)
 
 ## Skills
 
@@ -39,6 +33,13 @@ Let's connect and collaborate! You can find me on:
 - JavaScript
 - Php
 - WordPress
+
+## Connect with Me
+
+Let's connect and collaborate! You can find me on:
+
+- LinkedIn: [https://www.linkedin.com/in/bipin-bhatt-a6a11b233/](https://www.linkedin.com/in/bipin-bhatt-a6a11b233/)
+- Email: [bipinbhatt280@gmail.com](mailto:bipinbhatt280@gmail.com)
 
 
 ## GitHub Stats
