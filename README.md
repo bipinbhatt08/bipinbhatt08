@@ -1,4 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=bipinbhatt08&color=brightgreen)
+[![Click me]([https://example.com/image.jpg](https://github.com/bipinbhatt08/portfolio/blob/main/assets/imgs/bipinBhatt.jpg))](https://bipinbhatt08.github.io/portfolio/)
 
 ### Hi there! 👋
 
