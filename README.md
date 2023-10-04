@@ -1,5 +1,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=bipinbhatt08&color=brightgreen)
-<a href="https://github.com/bipinbhatt08/portfolio/blob/main/assets/imgs/bipinBhatt.jpg">ok<a>
 
 ### Hi there! 👋
 
